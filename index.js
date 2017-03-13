@@ -73,7 +73,6 @@ var play = function() {
 }
 
 getPlayersName(function(){
-  console.log(arguments);
   prompt.start();
   play();
 });
