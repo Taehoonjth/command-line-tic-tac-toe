@@ -4,7 +4,7 @@
 
 ### Installation
 
-To install the stable version:
+To install:
 
 ```
 git clone https://github.com/Taehoonjth/command-line-tic-tac-toe.git
